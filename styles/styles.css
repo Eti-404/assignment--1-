@@ -1,0 +1,29 @@
+/* nav styles */
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.text-primary{
+    color : #4E47FF; 
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between ;
+  margin: 0 50px;
+}
+
+.nav-title {
+  font-weight: 800;
+  font-size: 34px;
+}
+.nav-button{
+  background-color: #4E47FF;
+  color: white;
+  padding: 12px 36px;  
+  border-radius: 10px;
+  border: none;
+}
+
