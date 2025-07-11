@@ -46,6 +46,7 @@ color: #252432;
 font-size: 40px;
 font-weight: 700;
 text-align: center;
+padding: 100px 0px;
 }
 /* action */
 .action{
@@ -69,4 +70,27 @@ color: #25243280;
 border-radius: 48px;
  width: 403px;
 height: 328px;
+}
+/* section 2 */
+.users-content{
+  padding: 50px 80px;
+  margin: 50px 150px;
+  text-align: center;
+  background-color: #4e47ff19;
+  border-radius: 48px;
+}
+.users{
+  color: #4E47FF;
+  font-size: 80px;
+  font-weight: 700;
+  margin: 0;
+}
+.users-info{
+  display: flex;
+justify-content: space-between; 
+align-items: center;
+}
+.p-users{
+  color: grey;
+  font-weight: 400;
 }
