@@ -64,6 +64,7 @@ margin: 100px;
   font-size: 42px;
   font-weight: 700;
   color: #252432;
+  margin-bottom: 0;
 }
 .inner-action{
 font-size: 24px;
@@ -94,6 +95,7 @@ height: 328px;
   display: flex;
 justify-content: space-between; 
 align-items: center;
+margin-top: 30px;
 }
 .p-users{
   color: grey;
@@ -102,9 +104,7 @@ align-items: center;
 /* section 3 */
 .reviewer{
   text-align: center;
-  margin-top: 50px;
-  margin-bottom: -50px;
-  
+  margin-top: 50px; 
 }
 .rclass{
   display: flex;
@@ -126,4 +126,16 @@ border-radius: 40px;
 .circle-avatar{
   align-items: left;
   border-radius: 50%;
+}
+/* section 3 */
+.sec4{
+  flex-direction: column;
+  text-align: center;
+}
+.focus-img{
+  margin-top: 40px;
+  border-radius: 45px;
+}
+.btn-top{
+  margin-top: 20px;
 }
