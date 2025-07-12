@@ -127,10 +127,15 @@ border-radius: 40px;
   align-items: left;
   border-radius: 50%;
 }
-/* section 3 */
+/* section 4 */
 .sec4{
   flex-direction: column;
   text-align: center;
+  margin-top: 50px;
+  background-color: #f6f6f6 ;
+  margin: 50px 200px;
+  border-radius: 45px;
+  padding-bottom: 45px;
 }
 .focus-img{
   margin-top: 40px;
